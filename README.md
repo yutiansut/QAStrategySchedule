@@ -4,7 +4,7 @@ QAStrategySchedule 策略调度分发, 分布式回测收集, 快速验证Rank�
 
 QAStrategySchedule 基于以下几个项目开发:
 
-- [quantaxis_run] (github.com/yutiansut/quantaxis_run)
+- [quantaxis_run](github.com/yutiansut/quantaxis_run)
 
 - [quantaxis_unicorn](github.com/yutiansut/quantaxis_unicorn)
 
